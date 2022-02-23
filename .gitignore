@@ -1,0 +1,6 @@
+/build/
+/.idea/
+/.gradle/
+/src/main/resources/ssh/127.0.0.1.jks
+# Project exclude paths
+/target/
